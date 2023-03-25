@@ -8,6 +8,6 @@ public class ex04 {
         idades [2] = 29;
         System.out.println (idades[0]);
         System.out.println (idades[1]);
-        System.out.println (idades[2]);
+        System.out.println (idades[0]);
         }
 }
